@@ -30,6 +30,7 @@ Comme montré dans la Figure 2, lors de la conception d'un système QSYS, les tr
 Dans cette expérience, j'ai réalisé l'affichage de la course LED, le contrôle de sa vitesse à l'aide des switchs, et le contrôle de son démarrage/pause avec un bouton.   
 
 Voici la vidéo de démonstration de l'expérience :
+
 https://github.com/user-attachments/assets/62965e95-dea5-4bc7-b7d5-7d4497fc399b
 
 ## 4. <strong>Conclusion</strong>
