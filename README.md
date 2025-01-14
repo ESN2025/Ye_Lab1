@@ -30,10 +30,7 @@ Comme montré dans la Figure 2, lors de la conception d'un système QSYS, les tr
 Dans cette expérience, j'ai réalisé l'affichage de la course LED, le contrôle de sa vitesse à l'aide des switchs, et le contrôle de son démarrage/pause avec un bouton.   
 
 Voici la vidéo de démonstration de l'expérience :
-
-<video controls width="400" height="600">
-  <source src="lab1.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/62965e95-dea5-4bc7-b7d5-7d4497fc399b
 
 ## 4. <strong>Conclusion</strong>
 En résumé, j'ai beaucoup appris lors de cette expérience. Tout d'abord, dans la conception de QSYS, il est nécessaire de comprendre que les ports communiquent via Avalon-MM. Ensuite, j'ai appris à concevoir un fichier Top pour effectuer le mappage des ports et les connecter aux broches. Enfin, dans les composants conçus par Qsys, nous utilisons le langage C pour concevoir la logique dont nous avons besoin et écrire et lire les données dans leurs adresses.
